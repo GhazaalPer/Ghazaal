@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\controllers\\taskcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:controllers\\taskcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\controllers\\listcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:controllers\\listcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\getlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\getlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\gettaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\gettaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\updatelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\updatelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\creatlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\creatlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\model\\dto\\creattaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:model\\dto\\creattaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\todolist_b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:todolist_b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\todolist_b\\migrations\\20240702104203_firstsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2A5D9B-59A3-4555-B2C1-AF08BAE00DC5}|TodoList_B.csproj|solutionrelative:migrations\\20240702104203_firstsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\TodoList.cs",
+              "RelativeDocumentMoniker": "Model\\TodoList.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\TodoList.cs",
+              "RelativeToolTip": "Model\\TodoList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:24:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "Model\\Todo.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Todo.cs",
+              "RelativeToolTip": "Model\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:24:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatListDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\CreatListDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\CreatListDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\CreatListDto.cs",
+              "RelativeToolTip": "Model\\Dto\\CreatListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:54:27.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetListDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\GetListDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\GetListDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\GetListDto.cs",
+              "RelativeToolTip": "Model\\Dto\\GetListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:55:34.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateListDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\UpdateListDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\UpdateListDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\UpdateListDto.cs",
+              "RelativeToolTip": "Model\\Dto\\UpdateListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:56:08.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListControllers.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Controllers\\ListControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListControllers.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Controllers\\ListControllers.cs",
+              "RelativeToolTip": "Controllers\\ListControllers.cs",
+              "ViewState": "AQIAAFQAAAAAAgAAAAAawCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:01:56.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTaskDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\GetTaskDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\GetTaskDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\GetTaskDto.cs",
+              "RelativeToolTip": "Model\\Dto\\GetTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:54:47.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskControllers.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Controllers\\TaskControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskControllers.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Controllers\\TaskControllers.cs",
+              "RelativeToolTip": "Controllers\\TaskControllers.cs",
+              "ViewState": "AQIAAF0AAABAZmZmZmYywA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:01:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAkAAAComZmZmZktwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:30:47.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:34:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\UpdateTaskDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Model\\Dto\\UpdateTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:55:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mappingconfig.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Mappingconfig.cs",
+              "RelativeDocumentMoniker": "Mappingconfig.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Mappingconfig.cs",
+              "RelativeToolTip": "Mappingconfig.cs",
+              "ViewState": "AQIAAAAAAABkzMzMzMwnwA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:58:46.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreatTaskDto.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\CreatTaskDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\CreatTaskDto.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Model\\Dto\\CreatTaskDto.cs",
+              "RelativeToolTip": "Model\\Dto\\CreatTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:54:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240702104203_firstsetup.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Migrations\\20240702104203_firstsetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240702104203_firstsetup.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Migrations\\20240702104203_firstsetup.cs",
+              "RelativeToolTip": "Migrations\\20240702104203_firstsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:42:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T09:33:21.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TodoList_B.csproj",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\TodoList_B.csproj",
+              "RelativeDocumentMoniker": "TodoList_B.csproj",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\TodoList_B.csproj",
+              "RelativeToolTip": "TodoList_B.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T09:16:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\TodoList_B\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:07:52.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

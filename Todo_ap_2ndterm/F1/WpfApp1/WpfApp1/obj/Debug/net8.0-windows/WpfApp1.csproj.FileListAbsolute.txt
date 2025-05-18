@@ -1,0 +1,170 @@
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\CHECK\پروزه فاز1\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1_8_dleete_list_correct\WpfApp1_7_correctchange\WpfApp1_4_correctupdate\WpfApp1_2\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ConsoleTables.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\ListTodoView.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\View\TaskView.baml
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\git\ap-project1-GhazaalNorozi\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll

@@ -1,0 +1,118 @@
+﻿@page "/todoslist"
+@using System.Collections.ObjectModel
+@using System.Text.Json
+@using System.Text
+@rendermode InteractiveServer
+@using BlazorSample
+
+<PageTitle>TasksList</PageTitle>
+
+<div>
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            
+            <input @bind="todo.Name" />
+             <button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="() => DeletedList(todo)">Delete</button>
+               <button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="() => UpdateList(todo)">Edit</button>
+        </li>
+    }
+<input placeholder="new list" @bind="newList" />
+<button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="AddTodoList">Add todolist</button>
+</ul>
+</div>
+
+
+@code {
+    private ObservableCollection<TodosListItem> todos = new();
+    
+    private static HttpClient httpClient=new HttpClient{BaseAddress= new Uri("http://localhost:3000/")};
+    string newList="";
+    bool isedit=false;
+    private string edittodoname="";
+   // private DateTime? newtododatatime=DataTime.Today;
+
+    private async Task AddTodoList()
+    {
+        if(!string.IsNullOrWhiteSpace(newList)){
+            var newTask=new TodosListItem{
+                Name=newList,
+                
+            };
+            var CreatedTask=await CreateList("List",newTask);
+            todos.Add(CreatedTask);
+            newList=string.Empty;
+
+        }
+    }
+
+    public async Task<TodosListItem> CreateList (string endpoint,TodosListItem data){
+           var content = new StringContent(JsonSerializer.Serialize(data), Encoding.UTF8, "application/json");
+         var response = await httpClient.PostAsync($"{endpoint}", content);
+         if (!response.IsSuccessStatusCode)
+         {
+             throw new Exception($"Error creating data: {response.StatusCode}");
+         }
+         var stringData = await response.Content.ReadAsStringAsync();
+         return JsonSerializer.Deserialize<TodosListItem>(stringData);
+        }
+
+       public async Task UpdateList<T>(string endpoint, int? id, TodosListItem data)
+         {
+             var content = new StringContent(JsonSerializer.Serialize(data), Encoding.UTF8, "application/json");
+             var response = await httpClient.PutAsync($"{endpoint}/{id}", content);
+             if (!response.IsSuccessStatusCode)
+             {
+                 throw new Exception($"Error updating data: {response.StatusCode}");
+             }
+         }
+          private async Task UpdateList(TodosListItem todo)
+           {
+               await UpdateList<TodosListItem>("List", todo.Id, todo);
+           }
+         private async Task DeletedList(TodosListItem list){
+            await DeleteList("List",list.Id);
+            todos.Remove(list);
+         }
+
+         public async Task DeleteList(string endpoint, int? id)
+         {
+            if(id==null){
+                throw new ArgumentNullException(nameof(id),"task id is null");
+            }
+             var response = await httpClient.DeleteAsync($"{endpoint}/{id}");
+             if (!response.IsSuccessStatusCode)
+             {
+                 throw new Exception($"Error updating data: {response.StatusCode}");
+             }
+      }
+    protected override async Task OnInitializedAsync(){
+        var todoList=await getAllTodos();
+        todos=new  ObservableCollection<TodosListItem>(todoList);
+}  
+ public async Task<List<TodosListItem>> getAllTodos()
+    {
+        var response = await httpClient.GetFromJsonAsync<List<TodosListItem>>("List");
+      return response;
+      }
+    
+
+}
+
+
+@code{
+    
+
+ public class TodosListItem
+ {
+     public int Id { get; set; }
+     public string? Name { get; set; }
+ }
+
+}
+
+
+
+
++

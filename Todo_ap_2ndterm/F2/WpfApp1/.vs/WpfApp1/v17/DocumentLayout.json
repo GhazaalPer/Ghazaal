@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\view\\listtodoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\view\\listtodoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\view\\listtodoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\view\\listtodoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\viewmodel\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\viewmodel\\todolistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\todolistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\viewmodel\\taskitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\taskitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\data\\taskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\taskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\data\\listdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\listdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\images\\lp2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\images\\lp2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\images\\bp2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\images\\bp2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\images\\3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\images\\3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\images\\53217a813ce7052d30e9c7dbdce3e749.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\images\\53217a813ce7052d30e9c7dbdce3e749.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\model\\todo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\todo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\model\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\images\\edit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\images\\edit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|d:\\git\\ap-project1-ghazaalnorozi\\f2\\wpfapp1\\wpfapp1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{702EA3BB-0E54-41F0-8A5B-B9D382E5F864}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDataProvider.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Data\\TaskDataProvider.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\TaskDataProvider.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Data\\TaskDataProvider.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\TaskDataProvider.cs",
+              "ViewState": "AQIAAAwAAACAaGZmZmYkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:04:23.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lp2.png - PNG [735x413, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\lp2.png",
+              "RelativeDocumentMoniker": "WpfApp1\\Images\\lp2.png",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\lp2.png - PNG [735x413, 32 bit, PNG]",
+              "RelativeToolTip": "WpfApp1\\Images\\lp2.png - PNG [735x413, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-05T14:08:45.003Z",
+              "EditorCaption": " - PNG [735x413, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AQIAALkCAAAAMjMzMzP7v8ECAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-05T14:01:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bp2.png - PNG [348x450, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\bp2.png",
+              "RelativeDocumentMoniker": "WpfApp1\\Images\\bp2.png",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\bp2.png - PNG [348x450, 32 bit, PNG]",
+              "RelativeToolTip": "WpfApp1\\Images\\bp2.png - PNG [348x450, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-05T13:59:33.97Z",
+              "EditorCaption": " - PNG [348x450, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "3.png - PNG [1080x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\3.png",
+              "RelativeDocumentMoniker": "WpfApp1\\Images\\3.png",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\3.png - PNG [1080x1080, 32 bit, PNG]",
+              "RelativeToolTip": "WpfApp1\\Images\\3.png - PNG [1080x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-05T13:35:58.507Z",
+              "EditorCaption": " - PNG [1080x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListTodoView.xaml",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\View\\ListTodoView.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\ListTodoView.xaml",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\View\\ListTodoView.xaml",
+              "RelativeToolTip": "WpfApp1\\View\\ListTodoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T13:48:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoListItemViewModel.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TodoListItemViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\TodoListItemViewModel.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TodoListItemViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\TodoListItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:20:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListDataProvider.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Data\\ListDataProvider.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\ListDataProvider.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Data\\ListDataProvider.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\ListDataProvider.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAFcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:33:16.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "53217a813ce7052d30e9c7dbdce3e749.jpg - Bitmap [736x1333, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\53217a813ce7052d30e9c7dbdce3e749.jpg",
+              "RelativeDocumentMoniker": "WpfApp1\\Images\\53217a813ce7052d30e9c7dbdce3e749.jpg",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\53217a813ce7052d30e9c7dbdce3e749.jpg - Bitmap [736x1333, 24 bit, JPG]",
+              "RelativeToolTip": "WpfApp1\\Images\\53217a813ce7052d30e9c7dbdce3e749.jpg - Bitmap [736x1333, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-05T13:14:30.175Z",
+              "EditorCaption": " - Bitmap [736x1333, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListViewModel.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TodoListViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\TodoListViewModel.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TodoListViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\TodoListViewModel.cs",
+              "ViewState": "AQIAAMoAAADIBAAAAAApwM8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:20:27.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTodoView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\View\\ListTodoView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\View\\ListTodoView.xaml.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\View\\ListTodoView.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\View\\ListTodoView.xaml.cs",
+              "ViewState": "AQIAAAsAAACAPjMzMzMrwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:48:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAIAAACgmZmZmZkowBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:40:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:06:48.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItemViewModel.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TaskItemViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\TaskItemViewModel.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\ViewModel\\TaskItemViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\TaskItemViewModel.cs",
+              "ViewState": "AQIAAE8AAAAAZWZmZmYUwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:30:52.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T05:46:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Todo2.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\Todo2.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\Todo2.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\Todo2.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\Todo2.cs",
+              "ViewState": "AQIAAAMAAABAZmZmZmYUwBQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:05:23.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:55:42.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:44:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T15:55:39.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\TodoList.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\TodoList.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\TodoList.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\TodoList.cs",
+              "ViewState": "AQIAAAMAAABAZmZmZmYUwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:23:34.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\Todo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\Todo.cs",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Model\\Todo.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:51:54.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edit.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\edit.png",
+              "RelativeDocumentMoniker": "WpfApp1\\Images\\edit.png",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\Images\\edit.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "WpfApp1\\Images\\edit.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-09T08:53:02.9Z",
+              "EditorCaption": " - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAABRwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T10:04:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WpfApp1.csproj",
+              "DocumentMoniker": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "D:\\git\\ap-project1-GhazaalNorozi\\F2\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T06:25:11.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

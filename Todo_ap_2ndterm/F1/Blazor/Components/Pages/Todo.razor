@@ -1,0 +1,141 @@
+﻿
+
+
+@page "/todo"
+@using System.Collections.ObjectModel
+@using System.Text.Json
+@using System.Text
+@rendermode InteractiveServer
+
+<head>
+    
+    <base href="~/" />
+    <link href="~/css/app.min.css" rel="stylesheet" />
+    </head>
+
+
+
+<PageTitle>Todo</PageTitle>
+
+<h1 >Checked (@todos.Count(todo => !todo.Checked))</h1>
+<div  >
+
+<ul >
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.Checked" />
+            <input @bind="todo.Name" />
+<button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="() => DeletedTodo(todo)">
+  Delete
+</button>
+            <button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="() => UpdateTodo(todo)">Edit</button>
+             <input type="date" @bind="selectedDate" />
+
+
+
+        </li>
+    }
+
+
+<input placeholder="Something todo" @bind="newTodo" />
+<button class="bg-red-500 hover:bg-red-700 font-bold text-sm py-1 px-2 rounded" @onclick="AddTodo">Add todo</button>
+</ul>
+</div>
+
+@code {
+        private DateTime selectedDate { get; set; } = DateTime.Now;
+
+    private ObservableCollection<TodoItem> todos = new();
+    
+    private static HttpClient httpClient=new HttpClient{BaseAddress= new Uri("http://localhost:3000/")};
+    string newTodo="";
+    bool isedit=false;
+    private string edittodoname="";
+   // private DateTime? newtododatatime=DataTime.Today;
+
+    private async Task AddTodo()
+    {
+        if(!string.IsNullOrWhiteSpace(newTodo)){
+            var newTask=new TodoItem{
+                Name=newTodo,
+              //  DueData=newtododatatime,
+                Checked=false,
+                ListId=1
+            };
+            var CreatedTask=await CreateTask("Task",newTask);
+            todos.Add(CreatedTask);
+            newTodo=string.Empty;
+
+        }
+    }
+
+    public async Task<TodoItem> CreateTask (string endpoint,TodoItem data){
+           var content = new StringContent(JsonSerializer.Serialize(data), Encoding.UTF8, "application/json");
+         var response = await httpClient.PostAsync($"{endpoint}", content);
+         if (!response.IsSuccessStatusCode)
+         {
+             throw new Exception($"Error creating data: {response.StatusCode}");
+         }
+         var stringData = await response.Content.ReadAsStringAsync();
+         return JsonSerializer.Deserialize<TodoItem>(stringData);
+        }
+
+       public async Task UpdateTask<T>(string endpoint, int? id, TodoItem data)
+         {
+             var content = new StringContent(JsonSerializer.Serialize(data), Encoding.UTF8, "application/json");
+             var response = await httpClient.PutAsync($"{endpoint}/{id}", content);
+             if (!response.IsSuccessStatusCode)
+             {
+                 throw new Exception($"Error updating data: {response.StatusCode}");
+             }
+         }
+         private async Task UpdateTodo(TodoItem todo)
+           {
+               await UpdateTask<TodoItem>("Task", todo.Id, todo);
+           }
+
+         private async Task DeletedTodo(TodoItem todo){
+            await DeleteTask("Task",todo.Id);
+            todos.Remove(todo);
+         }
+
+         public async Task DeleteTask(string endpoint, int? id)
+         {
+            if(id==null){
+                throw new ArgumentNullException(nameof(id),"task id is null");
+            }
+             var response = await httpClient.DeleteAsync($"{endpoint}/{id}");
+             if (!response.IsSuccessStatusCode)
+             {
+                 throw new Exception($"Error updating data: {response.StatusCode}");
+             }
+      }
+    protected override async Task OnInitializedAsync(){
+        var todoList=await getAllTodos();
+        todos=new  ObservableCollection<TodoItem>(todoList);
+}  
+ public async Task<List<TodoItem>> getAllTodos()
+    {
+        var response = await httpClient.GetFromJsonAsync<List<TodoItem>>("Task");
+      return response;
+      }
+    
+   
+}
+
+
+@code{
+    
+public class TodoItem
+{
+    public int Id { get; set; }
+ public string? Name { get; set; }
+ public string? DueData { get; set; }
+ public bool Checked { get; set; }
+ public bool Starred{ get; set; }
+ //public TodoList? ListId {  get; set; }
+ public int ListId { get; set; }
+}
+
+}
