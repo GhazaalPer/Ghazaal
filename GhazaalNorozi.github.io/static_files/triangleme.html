@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>triang</title>
+</head>
+<body>
+<h1 style="text-align: center; font-family: Tahoma; color:red ">triangle</h1>
+<h4 style="text-align: right; font-family:Tahoma">
+    ابتدا مثلث های داخل کشیده میشود سپس دوبرابر اندازه ضلع جلو رفته و مثلث دیگر را میکشد
+    <br>
+    همچنین رنگ اضلاع به طور رندوم عوض میشود
+</h4 >
+<br>
+<img src="triangle.png" alt="this a triangle photo" width="400" dir="rtl">
+
+<pre> import turtle
+    import random
+    def triangle(d):
+        turtle.pencolor(random.random(),random.random(),random.random())
+        turtle.pensize(1.4)
+        
+        if d < 5:
+            return    
+        for _ in range(3):
+            triangle(d/2)
+            turtle.forward(d)
+            turtle.left(120)
+    turtle.penup()
+    turtle.backward(200)
+    turtle.pendown()
+    turtle.bgcolor("black")
+    turtle.tracer(0)
+    turtle.speed(0)
+    triangle(300)
+    turtle.update()
+    turtle.mainloop()</pre>
+<br>
+
+<div style="font-weight: bold; font-size: larger;" dir="rtl">
+برای دیدن درخت 
+<a href="file:///C:/git/FC02031/s9/Treeme.html">اینجا</a>
+ کلیک کنید
+</div>
+
+</body>
+</html>

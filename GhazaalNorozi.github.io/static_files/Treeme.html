@@ -1,0 +1,93 @@
+<html>
+<head>
+    <title>tree</title>
+</head>
+<body>
+<h1 style="text-align: center;font-family:Georgia, 'Times New Roman', Times, serif; color:rgba(249, 2, 35, 0.686) ;">Tree</h1>
+<br>
+<h4 style="text-align:right ;font-family: Tahoma">
+    ابتدا تنه درخت را کشیده و هر دفعه قطر قلم و اندازه شاخه ها کم میشود
+<br>
+    سپس اگر شاخه ها از یک اندازه کم شدعمل کشیدن شاخه تمام شده وبرگ ها که چندضلعی اند کشیده میشوند
+
+</h4>
+
+<img src="treeph.png" alt="this a tree photo" width="400" dir="rtl">
+
+<pre>import turtle
+    import random
+    
+    def color():
+       colorm=random.randint(1,4)
+       if colorm==1:
+           return "darkred"
+       elif colorm==2:
+           return "orangered"
+       elif colorm==3:
+           return "gold"
+       else:
+           return "red"
+    
+    
+    def circle(n):
+        turtle.begin_fill()
+        pencolor=color()
+        turtle.pencolor(pencolor)
+        turtle.fillcolor(pencolor)
+       
+        for i in range (n):
+           turtle.forward(1)
+           turtle.right(360/n)
+          
+           turtle.forward(3)
+           turtle.right(80)
+           turtle.forward(3)
+           turtle.left(80)
+        turtle.pencolor("brown")
+        turtle.end_fill()
+              
+    
+    def s(d,r,b):
+        turtle.pendown()
+        if d<12 :
+            circle(7)
+            return 
+        elif d<29 :
+          circle(7)
+            
+        turtle.pencolor("brown")
+        turtle.pensize(b)
+        turtle.forward(d)
+        turtle.left(r)
+        s(d * 0.8,r,b*0.8)
+        turtle.right(r*2) 
+        s(d * 0.8,r,b*0.8)
+        turtle.left(r)
+        turtle.penup()
+        turtle.backward(d)
+    
+    turtle.penup()
+    turtle.right(90)
+    turtle.forward(100)
+    turtle.pendown()
+    turtle.speed(0)
+    turtle.tracer(0)
+    turtle.left(180)
+    s(80,30,9)
+    turtle.update()
+    turtle.mainloop()
+
+    </pre>
+
+<br>
+
+<div style="font-weight: bold; font-size: larger;" dir="rtl">
+برای دیدن فراکتال مثلث 
+<a href="file:///C:/git/FC02031/s9/triangleme.html">اینجا</a>
+ کلیک کنید
+</div>
+
+
+</body>
+
+</html>

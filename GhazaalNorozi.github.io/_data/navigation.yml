@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "CV"
+    url: /cv/
+  - title: "Links"
+    url: /links/
+  - title: "Hobbies"
+    url: /hobbies/  
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Blog"
+    url: /blog/
+  - title: "Calender"
+    url: /calender/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
